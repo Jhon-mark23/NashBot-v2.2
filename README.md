@@ -17,7 +17,7 @@
 
 ## Features:
 
-- **Automated Greetings:** NASH BOT welcomes new members joining your group chats, making everyone feel at home.
+- **Automated Greetings:** NASH BOT V2.2 welcomes new members joining your group chats, making everyone feel at home.
 - **Custom Commands:** Easily create and customize your own commands to interact with the bot and perform various tasks.
 - **Dynamic Prefix:** NASH BOT adapts to your preferred command prefix, making it convenient to use according to your preferences.
 - **User-friendly Interface:** With a sleek design and intuitive commands, NASH BOT offers a seamless user experience.
