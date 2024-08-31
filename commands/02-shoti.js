@@ -15,7 +15,7 @@ module.exports.run = async function({ api, event }) {
   const axios = require("axios");
   const request = require('request');
   const fs = require("fs")
-  let response = await axios.post('https://shoti-api.libyzxy0.repl.co/api/get-shoti', { apikey: "YOUR-API-KEY" });
+  let response = await axios.post('https://shoti2-0-hfx0.onrender.com/kshitiz', { apikey: "YOUR-API-KEY" });
   var file = fs.createWriteStream(__dirname + "/cache/shoti.mp4");
   var rqs = request(encodeURI(response.data.data.url));
   rqs.pipe(file);
